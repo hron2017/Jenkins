@@ -8,9 +8,6 @@
 
 
 function Hello($name){
-    echo 'Привет' . $name;
+    echo 'Привет' . ' ' . $name;
 }
 
-Hello('Andr');
-
-Hello('Hron');
