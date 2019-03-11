@@ -13,3 +13,4 @@ function Hello($name){
 
 Hello('Andr');
 
+Hello('Hron');
